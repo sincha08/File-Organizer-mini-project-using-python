@@ -10,8 +10,6 @@ As this is my first Python mini project and i am still learning ,
 there are some limitations in the file organizer.
 i appreciate any feedback or suggestions for improvement.
 
-LIMITATIONS:
-* BASIC FILE TYPE SUPPORT: The file organizer handles only common file types and may not recognize all file extentions.
-* NO ADVANCED FEATURES: Features such as file renaming or complex sorting are not implemented
+
   
   
